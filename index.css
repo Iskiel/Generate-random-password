@@ -1,0 +1,56 @@
+body {
+  background-color: #111827;
+  color: white;
+  font-family: 'Happy Monkey';
+  padding: 10px 20px;
+
+}
+
+.red {
+  color: white;
+}
+
+.blue {
+  color: #059669;
+}
+
+.black {
+  color: white;
+}
+
+.btn {
+  background-color: #059669;
+  color: white;
+  font-size: 16px;
+  padding: 10px 20px;
+  border-radius: 10px;
+}
+
+#divider {
+  margin-top: 35px;
+  border: 1px solid #2f3e53;
+}
+
+.box-el {
+  width: 211px;
+  height: 39px;
+  background: #273549;
+  margin: 0 12px;
+  border-radius: 6px;
+  color: #55f991;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.output-text {
+  margin: 0;
+  padding: 10px 4px;
+  text-align: center;
+}
+
+#input-box {
+  display: flex;
+  justify-content: center;
+  margin-top: 35px;
+}
